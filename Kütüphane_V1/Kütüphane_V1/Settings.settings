@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Kütüphane_V1" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Sql_Data_Source" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DESKTOP-VALIK99</Value>
+    </Setting>
+    <Setting Name="Sql_İnitial_Catalog" Type="System.String" Scope="User">
+      <Value Profile="(Default)">KÜTÜPHANE</Value>
+    </Setting>
+    <Setting Name="KULLANICIADI" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ADMİN</Value>
+    </Setting>
+    <Setting Name="ŞİFRE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">123</Value>
+    </Setting>
+    <Setting Name="Kitaplar_Tablo" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Filmler_Tablo" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Kullanıcılar_Tablo" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Kiralananlar_Tablo" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
